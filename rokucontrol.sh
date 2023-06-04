@@ -13,7 +13,7 @@ curl -d '' '192.168.x.x:8060/search/browse?keyword=AmazonTV&type=tv-show&tmsid=S
 curl -d '' '192.168.x.x:8060/search/browse?keyword=YouTube&type=tv-show&tmsid=SH010855880000&season=4&provider=amazon%20video'
 curl -d '' '192.168.x.x:8060/keypress/powerOff'
 curl -d '' '192.168.x.x:8060/keypress/powerOn'
-curl -d '' '192.168.x.x:8060/search/browse?keyword=Netflix&type=tv-show&tmsid=SH010855880000&season=4&provider=amazon%20video'
+curl -d '' '192.168.x.x:8060/search/browse?keyword=Wednesday&type=movie&tmsid=MV005011860000&provider-id=31012&launch=true'
 curl -d '' '192.168.x.x:8060/keypress/powerOff'        
 curl -d '' '192.168.x.x:8060/keypress/powerOn'
 curl -d '' '192.168.x.x:8060/search/browse?keyword=Netflix&type=tv-show&tmsid=SH010855880000&season=4&provider=amazon%20video'
